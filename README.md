@@ -79,6 +79,10 @@ Conclusion
 Overall, this program is a compact, real-world Python project that brings together web APIs, data processing, and visualization into one easy-to-understand flow.
 It is a great starting point for beginners who want to move beyond simple console programs and start working with live web data and basic visual analytics.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/63ef6d27-68fa-4271-8aef-094c0b74505d)
+
 
 
 
