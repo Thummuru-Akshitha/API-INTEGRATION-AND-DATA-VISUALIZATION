@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION OF  API-INTEGRATION-AND-DATA-VISUALIZATION*:
+
 This Python program is designed to fetch the latest top news headlines from India using the NewsAPI and then present the information both in text format and visually through a horizontal bar chart. It combines the use of APIs, basic data handling, and data visualization techniques to create a small but functional project that touches multiple important concepts in programming.
 1. Libraries Used
 The program uses three important Python libraries:
